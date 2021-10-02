@@ -1,0 +1,18 @@
+# Sequel Blight CT
+![Tirma](pic/Tirma.png)
+
+The battle is a little hardcore, it's nice. But sometimes it takes too much time. I sometimes just want to get into the scenes quickly...
+
+## Address in CT
+- Current x pos in map
+- Tirma's status affected by items 
+    - HP
+    - damage
+## TODO
+- The movement speed of character in map. (I spent much on it, still did not get how to change speed. I will be appriciate if someone can give me some hint.)
+- Rabi, Uula, Nyx 's status affected by items.
+- Exp of each character.
+
+## Compatible version
+- Ver 2.10[簡中版]
+    - I am not sure if the CT can be used in other language version.
