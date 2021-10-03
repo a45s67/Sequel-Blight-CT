@@ -15,9 +15,9 @@ The values store in memory are almost in the form of `2*val + 1`. People use the
 > The value in memory will be original 2\*0+1 = 1, and you will change the value to 2\*100+1 = 201.
     
 ## TODO
-- The movement speed of character in map. (I spent much on it, still did not get how to change speed. I will be appriciate if someone can give me some hint.)
-- Rabi, Uula, Nyx 's status affected by items.
-- Exp of each character.
+* [ ] The movement speed of character in map. (I spent much on it, still did not get how to change speed. I will be appriciate if someone can give me some hint.)
+* [ ] Rabi, Uula, Nyx 's status affected by items.
+* [ ] Exp of each character.
 
 ## Compatible version
 - Ver 2.10[簡中版]
