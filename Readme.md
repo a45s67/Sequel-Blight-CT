@@ -3,6 +3,8 @@
 
 Sometimes the battle takes too much time. I just want to get into the scenes quickly...
 
+For detailed analyzing process of this game, please check my blog post [如何修改 RPG 遊戲 - Sequel Blight 角色的各項數值](https://sakana.tw/2023/09/16/%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9%20RPG%20%E9%81%8A%E6%88%B2%20-%20Sequel%20Blight%20%E8%A7%92%E8%89%B2%E7%9A%84%E5%90%84%E9%A0%85%E6%95%B8%E5%80%BC/).
+
 ## Features
 - Character status in map
     - Move speed control
